@@ -8,12 +8,16 @@ you want assuming you wanted the dumb thing for some reason. !>
 <h3> What this site is actually for </h3>
 <p> This site is for me practicing html more so that I do not end up forgetting it like I did java or python, because thats not fun, while remembering it is.  </p>
 <p> It will also help me learn how to use github and set up my own site. </p>
-<p> I also have my own domain, which is crazycrystals.tk, I currently just have it go to never gonna give you up though. </p>
+<!-- <p> I also have my own domain, which is crazycrystals.tk, I currently just have it go to never gonna give you up though. </p> --> <! Commented out because I just as I am typing this set it up to where crazycrystals.tk redirects to crazycrystals.github.io, !>
 <! For anybody looking at code, you might want to turn on word wrap. !>
 <! I promise I will not be a google and I will make sure to space out lines of code. !>
 <! Enough procrastinating, now I will actually do coding. !>
 
 <br>
+
+
+
+<h1> FAQ </h1>
 
 
 <h3> Info about code on this site? </h3>
@@ -22,3 +26,18 @@ you want assuming you wanted the dumb thing for some reason. !>
 <h3> Why is there so little CSS? </h3>
 <p> CSS bloat, use html </p> <!starting a chain here so gonna keep it on a single line!> <p>html bloat, use plain text</p> <p>Plain text bloat, use binary</p> Binary bloat, use hole punch cards.</p><p>Hole punch cards bloat, use brain</p> 15% of brain bloat, use 1%.
 <! And yes, I did not use tags there. It was a joke because 1% of brain no know how to use tag haha funny !>
+
+<p> Sadly, I will probably have to do SOME CSS since I am you know, doing this to keep it in my head. </p>
+
+<h3> Why not make this educational? </h3>
+<p> You know what, why not. </p>
+
+<h3> How do you do all of this</h3>
+<p> Sike, go to codacademy or something. </p>
+
+<a href="https://www.youtube.com/watch?v=iik25wqIuFo"><img src="WeDoALittleTrolling.png"> </a>
+
+<h3> PLASE MAKE THISI SITE EDCUTATIPNNONL </h3>
+<p> For one, learn how to spell for two, go <a href="batch.html">here</a> for batch coding tutorials.  <! Note to self, Make that a webpage. !></p>
+
+<br>
